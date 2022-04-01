@@ -1,20 +1,19 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: Welcome to my personal website!
+description: Learning, sharing and happiness in life!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Cherry
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
-
+author-job:     A responsible and independent girl
+author-email:   huangchr23@mail2.sysu.edu.cn # Add your email for contant form.
+author-twitter: no twitter yet # Add your twitter account
+about-author:   I am a girl deeply interested in the world of Finance and Computer.
 # Social settings
 social-twitter:   artemsheludko_
 social-facebook:
-social-github:    artemsheludko
+social-github:    AmaranthineFlower
 social-pinterest: artemsheludko
 social-instagram: artemsheludko_
 social-youtube:
